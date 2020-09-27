@@ -19,13 +19,13 @@
  now I present to you the Bloquito. Made in pyqt5 in python 3.8.5.
 
 
-# agora em português !!!
+# Agora em português :)
 
-decidi fazer esse projeto rapidao agora de madrugada.
-eu travei mt na hora da heranca da classe QMainWindow pelo fato dela
+Bom eu decidi fazer esse projeto rapidão agora de madrugada, meio que ja ta tarde ;-;
+Eu travei mt na hora da heranca da classe QMainWindow pelo fato dela
 n aceitar layout diretamente igual ao Qwidget entao ne por isso demorei um tanto pra terminar.
 
-Me divertir fazendo e isso que importa, sinto que aprendi mt no meio do caminho!!! 
+Me divertir fazendo e isso que importa. 
 
 #04:44 da manha preciso dormir!
 (⇀‸↼ “)bonoit♡.
